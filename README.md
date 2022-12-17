@@ -36,6 +36,7 @@ GitHub Website: [https://bakhshiali.github.io/](https://bakhshiali.github.io/)
 [![Google Scholar Badge](https://img.shields.io/badge/-Ali_Bakhshi-0072b1?style=flat&logo=GoogleScholar&logoColor=white&link=https://scholar.google.com/citations?user=JHn_W_wAAAAJ&hl=en)](https://scholar.google.com/citations?user=JHn_W_wAAAAJ&hl=en)
 [![ORCID Badge](https://img.shields.io/badge/-Ali_Bakhshi-0072b1?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0001-9825-0806)](https://orcid.org/0000-0001-9825-0806)
 [![Researchgate Badge](https://img.shields.io/badge/-Ali_Bakhshi-0072b1?style=flat&logo=Researchgate&logoColor=white&link=https://www.researchgate.net/profile/Inv-Ali-Bakhshi)](https://www.researchgate.net/profile/Inv-Ali-Bakhshi)
+[![sciprofiles Badge](https://img.shields.io/badge/-Ali_Bakhshi-0072b1?style=flat&logo=sciprofiles&logoColor=white&link=https://sciprofiles.com/profile/Ali-Bakhshi)](https://sciprofiles.com/profile/Ali-Bakhshi)
 <img src="https://komarev.com/ghpvc/?username=bakhshiali&style=flat-square&color=blue" alt=""/>
 ---
 <!--

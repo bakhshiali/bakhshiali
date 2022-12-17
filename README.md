@@ -1,4 +1,4 @@
-### Hi there :vulcan_salute:, This is Ali Bakhshi.
+### Hi there :vulcan_salute:, This is Ali Bakhshi.:infinity:
 
 <!--
 **bakhshiali/bakhshiali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Deep Learning applications!
 - 🌱 I’m currently learning Quantum AI.
-- 👯 I’m looking to collaborate on scientific papers!
+- 👯 I’m looking to collaborate on scientific papers:scroll: and writing books:books:! :people_hugging:
 - :trophy: IFIA 2022 silver medal :2nd_place_medal:
 - :houses: from :milky_way:.
-- 💬 Ask me about nanobiotechnology, physics, nanotechnology:man_scientist:, plasma technology & deep learning! 
+- Hobbies: :musical_note: :chart_with_upwards_trend: :currency_exchange: :open_book: :electric_plug: :dart: :ping_pong: :motor_boat: :camping: :biking_man:
+- 💬 Ask me about nanobiotechnology:dna::petri_dish::pill:, physics:telescope::satellite::atom_symbol:, nanotechnology:man_scientist::test_tube::microscope:, plasma technology:zap: & deep learning:comet: :question: :menorah:
 
 [![Gmail Badge](https://img.shields.io/badge/-alibakhshi255255@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alibakhshi255255@gmail.com)](mailto:alibakhshi255255@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-ali-bakhshi--0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-bakhshi-/)](https://www.linkedin.com/in/ali-bakhshi-/)

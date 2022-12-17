@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Deep Learning applications!
 - 🌱 I’m currently learning Quantum AI.
 - 👯 I’m looking to collaborate on scientific papers!
-- :houses: :milky_way:.
+- :houses: from :milky_way:.
 - 💬 Ask me about nanobiotechnology, physics, nanotechnology:man_scientist:, plasma technology & deep learning! 
 
 [![Gmail Badge](https://img.shields.io/badge/-alibakhshi255255@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alibakhshi255255@gmail.com)](mailto:alibakhshi255255@gmail.com) 

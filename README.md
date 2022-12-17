@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Deep Learning applications!
 - 🌱 I’m currently learning Quantum AI.
 - 👯 I’m looking to collaborate on scientific papers!
+- :trophy: IFIA 2022 silver medal :2nd_place_medal:
 - :houses: from :milky_way:.
 - 💬 Ask me about nanobiotechnology, physics, nanotechnology:man_scientist:, plasma technology & deep learning! 
 

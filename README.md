@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 - :houses: from :milky_way:.
 - Hobbies: :musical_note: :chart_with_upwards_trend: :currency_exchange: :open_book: :electric_plug: :dart: :ping_pong: :motor_boat: :camping: :biking_man:
 - 💬 Ask me about 
-                Nanobiotechnology:dna::petri_dish::pill:,
-                Physics:telescope::satellite::atom_symbol:,
-                Nanotechnology:man_scientist::test_tube::microscope:,
-                Cold Plasma technology:zap:
-                Deep learning:comet: :question: :menorah:
+                *Nanobiotechnology:dna::petri_dish::pill:,
+                *Physics:telescope::satellite::atom_symbol:,
+                *Nanotechnology:man_scientist::test_tube::microscope:,
+                *Cold Plasma technology:zap:
+                *Deep learning:comet: :question: :menorah:
 ---
 [![Gmail Badge](https://img.shields.io/badge/-alibakhshi255255@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alibakhshi255255@gmail.com)](mailto:alibakhshi255255@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-ali_bakhshi--0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-bakhshi-/)](https://www.linkedin.com/in/ali-bakhshi-/)

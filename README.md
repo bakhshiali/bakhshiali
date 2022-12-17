@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 [![Scopus Badge](https://img.shields.io/badge/-ali_bakhshi--0072b1?style=flat&logo=Scopus&logoColor=white&link=https://www.scopus.com/authid/detail.uri?authorId=57213951717)](https://www.scopus.com/authid/detail.uri?authorId=57213951717)
 [![Google Scholar Badge](https://img.shields.io/badge/-ali_bakhshi-0072b1?style=flat&logo=GoogleScholar&logoColor=white&link=https://scholar.google.com/citations?user=JHn_W_wAAAAJ&hl=en)](https://scholar.google.com/citations?user=JHn_W_wAAAAJ&hl=en)
 <img src="https://komarev.com/ghpvc/?username=bakhshiali&style=flat-square&color=blue" alt=""/>
+---
 [![Github stats](https://github-readme-stats.vercel.app/api?username=bakhshiali&show_icons=true&include_all_commits=true)](https://github.com/bakhshiali/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhshiali&layout=compact)](https://github.com/bakhshiali/github-readme-stats)

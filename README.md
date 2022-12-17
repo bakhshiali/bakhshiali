@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
 - Current projects : Deep Learning applications.
 - learning : Quantum AI.
 - 👯 I’m looking to collaborate on scientific papers:scroll: and writing books:books:! :people_hugging:
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
                 Nanotechnology:man_scientist::test_tube::microscope:,
                 Cold Plasma technology:zap:
                 Deep learning:comet: :question: :menorah:
-
+</div>
 [![Gmail Badge](https://img.shields.io/badge/-alibakhshi255255@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alibakhshi255255@gmail.com)](mailto:alibakhshi255255@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-ali_bakhshi--0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-bakhshi-/)](https://www.linkedin.com/in/ali-bakhshi-/)
 [![Github Badge](https://img.shields.io/badge/-bakhshiali-grey?style=flat&logo=github&logoColor=white&link=https://github.com/bakhshiali/)](https://www.github.com/bakhshiali/) [![Twitter Badge](https://img.shields.io/badge/-Ali65029491-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Ali65029491/)](https://twitter.com/Ali65029491)

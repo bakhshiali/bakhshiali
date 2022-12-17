@@ -1,5 +1,5 @@
 ### Hi there :vulcan_salute:, This is Ali Bakhshi.:infinity:
-
+**Researcher & Inventor**
 <!--
 **bakhshiali/bakhshiali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

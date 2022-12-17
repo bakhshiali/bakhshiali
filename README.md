@@ -25,12 +25,13 @@ Here are some ideas to get you started:
 - :trophy: IFIA 2022 silver medal :2nd_place_medal:
 - :houses: from :milky_way:.
 - Hobbies: :musical_note: :chart_with_upwards_trend: :currency_exchange: :open_book: :electric_plug: :dart: :ping_pong: :motor_boat: :camping: :biking_man:
-- 💬 Ask me about   
+- 💬 Ask me about:question:   
 &nbsp;&nbsp;&nbsp;&nbsp;1. Nanobiotechnology:dna::petri_dish::pill:,   
 &nbsp;&nbsp;&nbsp;&nbsp;2. Physics:telescope::satellite::atom_symbol:,   
 &nbsp;&nbsp;&nbsp;&nbsp;3. Nanotechnology:man_scientist::test_tube::microscope:,   
 &nbsp;&nbsp;&nbsp;&nbsp;4. Cold Plasma technology:zap:   
-&nbsp;&nbsp;&nbsp;&nbsp;5. Deep learning:comet: :question: :menorah:   
+&nbsp;&nbsp;&nbsp;&nbsp;5. Deep learning:comet:   
+&nbsp;&nbsp;&nbsp;&nbsp;5. Patent :menorah:   
 GitHub Website: [https://bakhshiali.github.io/](https://bakhshiali.github.io/)   
 **CV** : https://bakhshiali.github.io/cv/
 ---

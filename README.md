@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Current projects : Deep Learning applications.
-- learning : Quantum AI.
+- :hourglass_flowing_sand: Current projects : Deep Learning applications.
+- :mag_right: Learning : Quantum AI.
 - 👯 I’m looking to collaborate on scientific papers:scroll: and writing books:books:! :people_hugging:
 - :trophy: IFIA 2022 silver medal :2nd_place_medal:
 - :houses: from :milky_way:.

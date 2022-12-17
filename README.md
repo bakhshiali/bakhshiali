@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;5. Deep learning:comet: :question: :menorah:   
 ---
 [![Gmail Badge](https://img.shields.io/badge/-alibakhshi255255@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alibakhshi255255@gmail.com)](mailto:alibakhshi255255@gmail.com) 
-[![Website Badge](https://img.shields.io/badge/-https://bakhshiali.github.io-c14438?style=flat&logo=Website&logoColor=white&link=https://bakhshiali.github.io/)](https://bakhshiali.github.io/) 
+[![Web Badge](https://img.shields.io/badge/-https://bakhshiali.github.io-c14438?style=flat&logo=Web&logoColor=white&link=https://bakhshiali.github.io/)](https://bakhshiali.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Ali--Bakhshi---0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-bakhshi-/)](https://www.linkedin.com/in/ali-bakhshi-/)
 [![Github Badge](https://img.shields.io/badge/-bakhshiali-grey?style=flat&logo=github&logoColor=white&link=https://github.com/bakhshiali/)](https://www.github.com/bakhshiali/) [![Twitter Badge](https://img.shields.io/badge/-Ali65029491-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Ali65029491/)](https://twitter.com/Ali65029491)
 [![Scopus Badge](https://img.shields.io/badge/-Ali_Bakhshi-0072b1?style=flat&logo=Scopus&logoColor=white&link=https://www.scopus.com/authid/detail.uri?authorId=57213951717)](https://www.scopus.com/authid/detail.uri?authorId=57213951717)

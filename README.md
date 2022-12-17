@@ -38,5 +38,7 @@ GitHub Website: [https://bakhshiali.github.io/](https://bakhshiali.github.io/)
 [![Researchgate Badge](https://img.shields.io/badge/-Ali_Bakhshi-0072b1?style=flat&logo=Researchgate&logoColor=white&link=https://www.researchgate.net/profile/Inv-Ali-Bakhshi)](https://www.researchgate.net/profile/Inv-Ali-Bakhshi)
 <img src="https://komarev.com/ghpvc/?username=bakhshiali&style=flat-square&color=blue" alt=""/>
 ---
-|[![Github stats](https://github-readme-stats.vercel.app/api?username=bakhshiali&show_icons=true&include_all_commits=true)](https://github.com/bakhshiali/)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhshiali&layout=compact)](https://github.com/bakhshiali/)|
+<!--
+[![Github stats](https://github-readme-stats.vercel.app/api?username=bakhshiali&show_icons=true&include_all_commits=true)](https://github.com/bakhshiali/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhshiali&layout=compact)](https://github.com/bakhshiali/)-->
 | <a href="https://github.com/bakhshiali/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bakhshiali&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="bakhshiali's github stats" /></a> | <a href="https://github.com/bakhshiali/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhshiali&layout=compact&theme=buefy&hide_border=true" /></a> |

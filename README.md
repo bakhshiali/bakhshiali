@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-ali-bakhshi--0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-bakhshi-/)](https://www.linkedin.com/in/ali-bakhshi-/)
 [![Github Badge](https://img.shields.io/badge/-bakhshiali-grey?style=flat&logo=github&logoColor=white&link=https://github.com/bakhshiali/)](https://www.github.com/bakhshiali/) [![Twitter Badge](https://img.shields.io/badge/-Ali65029491-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Ali65029491/)](https://twitter.com/Ali65029491)
 [![Scopus Badge](https://img.shields.io/badge/-ali-bakhshi--0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.scopus.com/authid/detail.uri?authorId=57213951717)](https://www.scopus.com/authid/detail.uri?authorId=57213951717)
-
 <img src="https://komarev.com/ghpvc/?username=bakhshiali&style=flat-square&color=blue" alt=""/>
 [![Github stats](https://github-readme-stats.vercel.app/api?username=bakhshiali&show_icons=true&include_all_commits=true)](https://github.com/bakhshiali/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhshiali&layout=compact)](https://github.com/bakhshiali/github-readme-stats)

@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :hourglass_flowing_sand: Current projects :
-&nbsp;&nbsp;&nbsp;&nbsp;1. Deep Learning applications (Retinopathy, Plant disease, 3D navigation, ...).
-&nbsp;&nbsp;&nbsp;&nbsp;2. Nano-scale simulations.
-&nbsp;&nbsp;&nbsp;&nbsp;3. Wound dressing nanofibers.
-&nbsp;&nbsp;&nbsp;&nbsp;4. Smart Hydrogen production (Nano Photoelectrocatalysis).
-&nbsp;&nbsp;&nbsp;&nbsp;5. Cold Plasma in Agriculture (PATW).
+- :hourglass_flowing_sand: Current projects :   
+&nbsp;&nbsp;&nbsp;&nbsp;1. Deep Learning applications (Retinopathy, Plant disease, 3D navigation, ...).   
+&nbsp;&nbsp;&nbsp;&nbsp;2. Nano-scale simulations.   
+&nbsp;&nbsp;&nbsp;&nbsp;3. Wound dressing nanofibers.   
+&nbsp;&nbsp;&nbsp;&nbsp;4. Smart Hydrogen production (Nano Photoelectrocatalysis).   
+&nbsp;&nbsp;&nbsp;&nbsp;5. Cold Plasma in Agriculture (PATW).   
 - :mag_right: Learning : Quantum AI.
 - :handshake: I’m looking to collaborate on scientific papers:scroll: and writing books:books:!
 - :trophy: IFIA 2022 silver medal :2nd_place_medal:

@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;3. Nanotechnology:man_scientist::test_tube::microscope:,   
 &nbsp;&nbsp;&nbsp;&nbsp;4. Cold Plasma technology:zap:   
 &nbsp;&nbsp;&nbsp;&nbsp;5. Deep learning:comet: :question: :menorah:   
-GitHub Website: [https://bakhshiali.github.io/](https://bakhshiali.github.io/)
+GitHub Website: [https://bakhshiali.github.io/](https://bakhshiali.github.io/)   
+**CV** : https://bakhshiali.github.io/cv/
 ---
 [![Gmail Badge](https://img.shields.io/badge/-alibakhshi255255@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alibakhshi255255@gmail.com)](mailto:alibakhshi255255@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Ali--Bakhshi---0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-bakhshi-/)](https://www.linkedin.com/in/ali-bakhshi-/)

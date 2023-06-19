@@ -46,5 +46,4 @@ GitHub Website: [https://bakhshiali.github.io/](https://bakhshiali.github.io/)
 ---
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhshiali&layout=compact)](https://github.com/bakhshiali/)-->
-| <a href="https://github.com/bakhshiali/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bakhshiali&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="bakhshiali's github stats" /></a> | <a href="https://github.com/bakhshiali/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhshiali&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/bakhshiali/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhshiali&layout=compact&theme=buefy&hide_border=true" /></a>

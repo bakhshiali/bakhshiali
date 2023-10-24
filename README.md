@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;5. Cold Plasma in Agriculture (PATW).   
 - :mag_right: Learning : Quantum AI.
 - :handshake: I’m looking to collaborate on scientific papers:scroll: and writing books:books:!
-- :trophy: IFIA 2022 silver medal :2nd_place_medal:
+- :trophy: IFIA 2022 and 2023 silver medal :2nd_place_medal:
 - :houses: from :milky_way:.
 - Hobbies: :musical_note: :chart_with_upwards_trend: :currency_exchange: :open_book: :electric_plug: :dart: :ping_pong: :motor_boat: :camping: :biking_man:
 - 💬 Ask me about:question:   

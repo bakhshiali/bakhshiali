@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :hourglass_flowing_sand: Current projects :   
-&nbsp;&nbsp;&nbsp;&nbsp;1. Deep Learning applications (Retinopathy, Plant disease, 3D navigation, ...).   
-&nbsp;&nbsp;&nbsp;&nbsp;2. Nano-scale simulations.   
-&nbsp;&nbsp;&nbsp;&nbsp;3. Wound dressing nanofibers.   
-&nbsp;&nbsp;&nbsp;&nbsp;4. Smart Hydrogen production (Nano Photoelectrocatalysis).   
-&nbsp;&nbsp;&nbsp;&nbsp;5. Cold Plasma in Agriculture (PATW).   
+&nbsp;&nbsp;&nbsp;&nbsp;1. ISRU: In-Situ Resource Upcycling  
+&nbsp;&nbsp;&nbsp;&nbsp;2. SPIN: Smart Portable Integrated Nanofibers   
+&nbsp;&nbsp;&nbsp;&nbsp;3. ASRNL: Autonomous Self-Replicating Nano-Lab
 - :mag_right: Learning : Quantum AI.
 - :handshake: I’m looking to collaborate on scientific papers:scroll: and writing books:books:!
 - :trophy: IFIA 2022, 2023, 224 Silver medal :2nd_place_medal:, 2025 Gold medal :1st_place_medal:
@@ -33,7 +31,6 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;5. Deep learning :comet:   
 &nbsp;&nbsp;&nbsp;&nbsp;5. Patent :menorah:   
 GitHub Website: [https://bakhshiali.github.io/](https://bakhshiali.github.io/)   
-**CV** : https://bakhshiali.github.io/cv/
 ---
 [![Gmail Badge](https://img.shields.io/badge/-alibakhshi255255@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alibakhshi255255@gmail.com)](mailto:alibakhshi255255@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Ali--Bakhshi---0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-bakhshi-/)](https://www.linkedin.com/in/ali-bakhshi-/)
@@ -46,4 +43,3 @@ GitHub Website: [https://bakhshiali.github.io/](https://bakhshiali.github.io/)
 ---
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhshiali&layout=compact)](https://github.com/bakhshiali/)-->
-<a href="https://github.com/bakhshiali/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhshiali&layout=compact&theme=buefy&hide_border=true" /></a>
